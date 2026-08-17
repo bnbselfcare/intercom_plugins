@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "intercom-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/intercom/intercom-ios",
+      "state" : {
+        "revision" : "dabb3f18f56337c0914ba55c65b2072c5daf77ab",
+        "version" : "15.0.3"
+      }
+    }
+  ],
+  "version" : 2
+}
